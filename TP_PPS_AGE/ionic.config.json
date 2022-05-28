@@ -1,0 +1,7 @@
+{
+  "name": "TP_PPS_AGE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
